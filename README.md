@@ -1,5 +1,5 @@
 # richardm-website
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>My Projects</title>
