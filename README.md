@@ -1,8 +1,8 @@
 # richardm-website
-
+<!DOCTYPE html>
 <html>
 <head>
-    <title>My Projects</title>
+    <title>Richard Montalvo Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
