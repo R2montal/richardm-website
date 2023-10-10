@@ -33,7 +33,9 @@
     </header>
     <div class="container">
         <h2>About Me</h2>
-        <p>Hi, I'm [Your Name]. I'm a [Your Profession] with a passion for engineering and robotics. Here are some of the projects I've worked on:</p>
+        <p> Hello, I'm Richard Montalvo, a dedicated Mechanical Engineer in the making, driven by a profound passion for engineering and robotics. As an aspiring mechanical engineer, I bring to the table 
+            demonstrated technical and analytical skills, with a strong desire to further expand my understanding of mechanical processes, practices, and concepts. 
+            Here's a glimpse of the projects I've had the privilege to work on:</p>
         
         <h2>Projects</h2>
 
