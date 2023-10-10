@@ -40,6 +40,8 @@
         <h2>Projects</h2>
 
         <h3>Project 1: Fly Wheel Controls</h3>
+        ![flywheel](https://github.com/R2montal/richardm-website/assets/91502833/589b99bc-ac39-43e5-8169-3c9e6a515892)
+
         <p>
             <strong>Duration:</strong> January 2023 - March 2023<br>
             <strong>Description:</strong> This project aims to design a flywheel mechanism control system that maintains a desired speed or position. The controllers are to maintain the flywheel's position, velocity, and acceleration within acceptable limits.<br>
@@ -49,6 +51,8 @@
         </p>
 
         <h3>Project 2: Inventory Robot</h3>
+        ![robot](https://github.com/R2montal/richardm-website/assets/91502833/7a1e7ba1-e9e6-44e5-83ec-11ce78e242ac)
+
         <p>
             <strong>Duration:</strong> September 2021 - December 2021<br>
             <strong>Description:</strong> In groups of 4 peers, design, test, analyze, fabricate, and develop a robot to compete with 35 other teams.<br>
@@ -59,6 +63,8 @@
         </p>
 
         <h3>Project 3: Rocket Recovery</h3>
+        ![rocket](https://github.com/R2montal/richardm-website/assets/91502833/8df19a7d-60eb-4877-8990-8c7d28ee7539)
+
         <p>
             <strong>Duration:</strong> September 2021 - December 2021<br>
             <strong>Description:</strong> MATLAB simulations that exhibit the model of dynamic trajectories of rockets as they navigate through challenging mountainous terrain taking into account various factors such as propulsion, air drag, wind advection, and more.<br>
@@ -68,6 +74,8 @@
         </p>
 
         <h3>Project 4: Dolly Cart - Team 812</h3>
+        ![cart](https://github.com/R2montal/richardm-website/assets/91502833/a873fadd-535a-46f5-9287-61e993e9dc8a)
+
         <p>
             <strong>Duration:</strong> January 2020 - March 2020<br>
             <strong>Description:</strong> Design and fabricate a specialized dolly for safely transporting a robot to and from competitions. The transport dolly will provide a convenient and secure means of moving the robot, ensuring its protection from damage during transit and facilitating ease of handling for the competition team.<br>
