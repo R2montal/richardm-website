@@ -1,4 +1,3 @@
-#richardm-website
 <!DOCTYPE html>
 <html>
 <head>
@@ -86,6 +85,7 @@
         <p><strong>Email:</strong> <a href="mailto:richardmontalvo20@gmail.com">RichardMontalvo20@gmail.com</a></p>
         
         <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/richard-montalvo-ab17b620b/" target="_blank">LinkedIn Profile</a></p>
+        
         <footer>
         <p> %copy; 2023 Richard Montalvo
         </footer>
