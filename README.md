@@ -39,7 +39,7 @@
         <h2>Projects</h2>
 
         <h3>Project 1: Fly Wheel Controls</h3>
-        <img src="flywheel.JPG" alt="Fly Wheel Contraption">
+        <img src="flywheel.JPG">
         <p>
             <strong>Duration:</strong> January 2023 - March 2023<br>
             <strong>Description:</strong> This project aims to design a flywheel mechanism control system that maintains a desired speed or position. The controllers are to maintain the flywheel's position, velocity, and acceleration within acceptable limits.<br>
@@ -49,7 +49,7 @@
         </p>
 
         <h3>Project 2: Inventory Robot</h3>
-        <img src="robot.JPG" alt="CAD of competing Robot">
+        <img src="robot.JPG">
         <p>
             <strong>Duration:</strong> September 2021 - December 2021<br>
             <strong>Description:</strong> In groups of 4 peers, design, test, analyze, fabricate, and develop a robot to compete with 35 other teams.<br>
