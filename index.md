@@ -1,7 +1,3 @@
-git add index.html
-git commit -m "Add index.html as the main page"
-git push origin richardm-website
-
 <!DOCTYPE html>
 <html>
 <head>
