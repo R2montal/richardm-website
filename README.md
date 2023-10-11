@@ -49,7 +49,7 @@
         </p>
 
         <h3>Project 2: Inventory Robot</h3>
-
+        <img src="robot.JPG" alt="CAD of competing Robot">
         <p>
             <strong>Duration:</strong> September 2021 - December 2021<br>
             <strong>Description:</strong> In groups of 4 peers, design, test, analyze, fabricate, and develop a robot to compete with 35 other teams.<br>
