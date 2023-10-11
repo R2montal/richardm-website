@@ -60,7 +60,7 @@
         </p>
 
         <h3>Project 3: Rocket Recovery</h3>
-
+        <img src="webpics/rocket.JPG">
         <p>
             <strong>Duration:</strong> September 2021 - December 2021<br>
             <strong>Description:</strong> MATLAB simulations that exhibit the model of dynamic trajectories of rockets as they navigate through challenging mountainous terrain taking into account various factors such as propulsion, air drag, wind advection, and more.<br>
@@ -70,7 +70,7 @@
         </p>
 
         <h3>Project 4: Dolly Cart - Team 812</h3>
-
+        <img src="webpics/cart.JPG">
         <p>
             <strong>Duration:</strong> January 2020 - March 2020<br>
             <strong>Description:</strong> Design and fabricate a specialized dolly for safely transporting a robot to and from competitions. The transport dolly will provide a convenient and secure means of moving the robot, ensuring its protection from damage during transit and facilitating ease of handling for the competition team.<br>
