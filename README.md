@@ -28,7 +28,7 @@
 </head>
 <body>
     <header>
-        <h1>My Projects</h1>
+        <h1>Richard M. Portfolio</h1>
     </header>
     <div class="container">
         <h2>About Me</h2>
