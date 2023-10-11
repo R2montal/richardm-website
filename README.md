@@ -39,7 +39,7 @@
         <h2>Projects</h2>
 
         <h3>Project 1: Fly Wheel Controls</h3>
-        <img src="flywheel.jpg" alt="Fly Wheel Contraption">
+        <img src="flywheel.JPG" alt="Fly Wheel Contraption">
         <p>
             <strong>Duration:</strong> January 2023 - March 2023<br>
             <strong>Description:</strong> This project aims to design a flywheel mechanism control system that maintains a desired speed or position. The controllers are to maintain the flywheel's position, velocity, and acceleration within acceptable limits.<br>
