@@ -40,7 +40,6 @@
         <h2>Projects</h2>
 
         <h3>Project 1: Fly Wheel Controls</h3>
-        ![flywheel](https://github.com/R2montal/richardm-website/assets/91502833/589b99bc-ac39-43e5-8169-3c9e6a515892)
 
         <p>
             <strong>Duration:</strong> January 2023 - March 2023<br>
@@ -51,7 +50,6 @@
         </p>
 
         <h3>Project 2: Inventory Robot</h3>
-        ![robot](https://github.com/R2montal/richardm-website/assets/91502833/7a1e7ba1-e9e6-44e5-83ec-11ce78e242ac)
 
         <p>
             <strong>Duration:</strong> September 2021 - December 2021<br>
@@ -63,7 +61,6 @@
         </p>
 
         <h3>Project 3: Rocket Recovery</h3>
-        ![rocket](https://github.com/R2montal/richardm-website/assets/91502833/8df19a7d-60eb-4877-8990-8c7d28ee7539)
 
         <p>
             <strong>Duration:</strong> September 2021 - December 2021<br>
@@ -74,7 +71,6 @@
         </p>
 
         <h3>Project 4: Dolly Cart - Team 812</h3>
-        ![cart](https://github.com/R2montal/richardm-website/assets/91502833/a873fadd-535a-46f5-9287-61e993e9dc8a)
 
         <p>
             <strong>Duration:</strong> January 2020 - March 2020<br>
