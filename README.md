@@ -87,7 +87,7 @@
         <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/richard-montalvo-ab17b620b/" target="_blank">LinkedIn Profile</a></p>
         
         <footer>
-        <p> %copy; 2023 Richard Montalvo
+        <p> &copy; 2023 Richard Montalvo </p>
         </footer>
     </div>
 </body>
